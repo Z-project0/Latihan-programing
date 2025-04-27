@@ -1,2 +1,1 @@
-web-zaka
-Repository untuk menyimpan rencana karier kedepannya
+git remote set-url origin https://github.com/ZakaProject/Latihan-programing.git
