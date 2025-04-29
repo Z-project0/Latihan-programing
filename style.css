@@ -41,6 +41,7 @@ body {
   background-color: #3498db;
   color: white;
   border: none;
+  border-radius: 5px;
 }
 forgot {
   margin-top: 10px;
