@@ -43,6 +43,8 @@ body {
   border: none;
   border-radius: 5px;
 }
+.login-box button:hover {
+  background: #00BFFF 
 forgot {
   margin-top: 10px;
   text-align: center;
